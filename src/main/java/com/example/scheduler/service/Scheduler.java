@@ -18,5 +18,4 @@ public class Scheduler {
         String formattedDateTime = current.format(formatter);
         log.info("Scheduler time " + formattedDateTime);
     }
-
 }
